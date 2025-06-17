@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋, I am Pranav Metil</h1> 
+<h1 align="center">Hi 👋, I am Pranav Metil</h1> 
+<div align="center">
 <table style="width: 100%;">
   <tr>
     <td style="vertical-align: top; width: 50%;">
@@ -12,6 +13,7 @@
     </td>
   </tr>
 </table>
+</div>
 <div align="center">
   <a href="https://www.instagram.com/pranav.metil/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="40" alt="instagram logo" />
@@ -33,17 +35,47 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/Pranav5255">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav5255&theme=radical" />
-  </a>
-</div>
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  <a href="https://github.com/Pranav5255">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav5255&layout=compact&langs_count=15&theme=radical" />
-  </a>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### **My TechStack 😵**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranav5255&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+</td>
+<td width="50%" align="center">
+
+
+### **Journey of Making REPOs**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranav5255&theme=nord_bright" alt="GitHub Profile Summary" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### **Contribution Streak**
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav5255&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+</td>
+<td width="50%" align="center">
+
+### **Activity Graph**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav5255&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+
+</td>
+</tr>
+</table>
 </div>
+
 
 ---
 
