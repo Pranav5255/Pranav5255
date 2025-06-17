@@ -39,6 +39,12 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/Pranav5255">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav5255&layout=compact&langs_count=15&theme=radical" />
+  </a>
+</div>
+
 ---
 
 <div align="left">
