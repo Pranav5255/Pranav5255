@@ -67,9 +67,9 @@
 </td>
 <td width="50%" align="center">
 
-### **Activity Graph**
+### **Stat**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav5255&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pranav5255&show_icons=true&locale=en" alt= "Pranav" />
 
 </td>
 </tr>
