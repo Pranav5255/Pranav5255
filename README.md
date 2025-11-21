@@ -27,6 +27,9 @@
   <a href="https://medium.com/@pranavmetil" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="42" height="40" alt="medium logo" />
   </a>
+  <a href="https://devpost.com/pranavmetil" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devpost/default.svg" width="42" height="40" alt="devpost logo" />
+  </a>
 </div>
     </td>
   </tr>
