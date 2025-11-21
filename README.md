@@ -3,7 +3,7 @@
 <table style="width: 100%;">
   <tr>
     <td style="vertical-align: top; width: 50%;">
-      <h3>Rookie Cloud and DevOps Guy.</h3>
+      <h3>Rookie AI(?) Infra Guy.</h3>
       <ul>
         <li>Passionate about building scalable Local and Cloud Infrastructure.</li>
         <li>Currently exploring AWS, GCP, and Cloud Native.</li>
