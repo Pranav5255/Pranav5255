@@ -8,6 +8,7 @@
         <li>Passionate about building scalable Local and Cloud Infrastructure.</li>
         <li>Currently exploring AWS, GCP, and Cloud Native.</li>
         <li>Also looking into MLOps & LLMOps.</li>
+        <li>Major progress being made on corporate GH acc now. (will try to make something interesting soon)</li>
       </ul>
       <br/>
     </td>
